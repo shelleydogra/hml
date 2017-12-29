@@ -3,6 +3,6 @@
 ---
 
 
-Currency | Unit
---- | ---
-1 | 2
+Currency | Indian Rupee | 
+--- | --- | ---
+Converting Currency | Rupee | Lakh(s)
